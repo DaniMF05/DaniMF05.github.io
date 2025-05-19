@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - DaniMF05
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DaniMF05/PROYECTO_FINAL_ICCD332
+  - DaniMF05/TALLERES_MN
+  - DaniMF05/CALCULOS_TAREAS
+  
+ 
